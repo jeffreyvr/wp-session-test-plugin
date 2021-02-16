@@ -1,6 +1,6 @@
 # WP Session Test plugin
 
-Basis setup for using WP Session within a plugin.
+Basic setup for using WP Session within a plugin.
 
 ## Resources
 * [WP Session Manager](https://github.com/ericmann/wp-session-manager)
