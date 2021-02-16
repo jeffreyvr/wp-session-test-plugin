@@ -9,9 +9,9 @@ Basis setup for using WP Session within a plugin.
 ## Usage
 
 ```php
-wstp()->set( 'key', 'value' );
+wstp()->session->set( 'key', 'value' );
 ```
 
 ```php
-wstp()->get( 'key' );
+wstp()->session->get( 'key' );
 ```
