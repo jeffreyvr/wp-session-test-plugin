@@ -50,6 +50,7 @@ class WP_Session_Test_Plugin {
 			require_once WSTP_PLUGIN_PATH . 'includes/class-recursive-arrayaccess.php';
 		}
 
+		require_once WSTP_PLUGIN_PATH . 'includes/wp-session.php';
 		require_once WSTP_PLUGIN_PATH . 'includes/class-wp-session.php';
 		require_once WSTP_PLUGIN_PATH . 'includes/class-wstp-session.php';
 	}
